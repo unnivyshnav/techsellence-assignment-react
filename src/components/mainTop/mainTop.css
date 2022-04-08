@@ -1,0 +1,88 @@
+.mainTop {
+  display: flex;
+  flex-direction: column;
+  width: 78vw;
+  background: #def0f1;
+}
+.blue {
+  color: blue;
+}
+
+.topTop {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.topBottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.topleft {
+  width: 50%;
+}
+.topRight {
+  width: 55%;
+}
+table,
+.table {
+  width: 100%;
+}
+.bold {
+  font-weight: bold;
+}
+.right {
+  text-align: right;
+  vertical-align: middle;
+  padding-bottom: px;
+  width: 100px;
+}
+.left {
+  text-align: left;
+  vertical-align: middle;
+  padding-bottom: px;
+}
+span {
+  margin: 2px;
+}
+
+.bottomleft {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 30%;
+}
+
+.bottomRight {
+  display: flex;
+  flex-direction: row;
+  width: 57%;
+  justify-content: space-between;
+  align-items: center;
+}
+.btnDiv {
+  border: 1px solid #000000;
+  display: flex;
+  height: fit-content;
+
+  border-radius: 5px;
+  padding: 5px 10px 5px 10px;
+  flex-direction: row;
+  margin: 0px 5px 0px 30px;
+}
+
+.pp {
+  position: relative;
+}
+
+.status {
+  position: absolute;
+  background: #fc0e0e;
+  height: 11px;
+  width: 11px;
+  border-radius: 50%;
+  top: 5px;
+  right: 5px;
+  text-align: center;
+  font-size: 9px;
+}

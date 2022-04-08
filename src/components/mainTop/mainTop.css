@@ -3,6 +3,7 @@
   flex-direction: column;
   width: 78vw;
   background: #def0f1;
+  font-size: small;
 }
 .blue {
   color: blue;

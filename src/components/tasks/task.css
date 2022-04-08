@@ -9,6 +9,8 @@
   border-radius: 10px;
   margin: 25px 0px 15px 0px;
   padding: 5px;
+  height: 100px;
+  justify-content: space-between;
 }
 .noStar.task {
   background-color: white;
@@ -26,7 +28,7 @@
 .orderMiddle {
   width: 100%;
   display: flex;
-  font-size: 20px;
+  font-size: 22px;
   margin-bottom: 4px;
   flex-direction: row;
   justify-content: space-between;
@@ -34,6 +36,6 @@
 
 .orderBottom,
 .orderTop {
-  font-size: 12px;
+  font-size: 15px;
   color: #706c6c;
 }

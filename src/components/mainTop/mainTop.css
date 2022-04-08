@@ -1,9 +1,8 @@
 .mainTop {
   display: flex;
   flex-direction: column;
-  width: 78vw;
+  width: 100%;
   background: #def0f1;
-  font-size: small;
 }
 .blue {
   color: blue;
